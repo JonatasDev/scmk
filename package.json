@@ -1,0 +1,25 @@
+{
+  "name": "scmk",
+  "version": "1.0.0",
+  "description": "SCMK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonatasDev/scmk.git"
+  },
+  "author": "Jonatas Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonatasDev/scmk/issues"
+  },
+  "homepage": "https://github.com/JonatasDev/scmk#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5"
+  }
+}
